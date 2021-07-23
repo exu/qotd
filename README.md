@@ -2,6 +2,12 @@
 
 Some quotes worth to remember (IMO :)
 
+- Some unknown guy
+   > "The difference between beeing inteligent and stupid
+      And intelligent person knows that he is stupid
+      An idion does not know that he is an idiot
+      That's the whole problem."
+
 - Winston Churchill
     > "Success consists of going from failure to failure without loss of enthusiasm."
 
