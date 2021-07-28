@@ -3,9 +3,13 @@
 Some quotes worth to remember (IMO :)
 
 - Some unknown guy
+   > “Bees don’t waste their time explaining to 
+      flies that honey is better than shit” 
+
+- Some unknown guy
    > "The difference between beeing inteligent and stupid
       And intelligent person knows that he is stupid
-      An idion does not know that he is an idiot
+      An idiot does not know that he is an idiot
       That's the whole problem."
 
 - Winston Churchill
