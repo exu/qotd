@@ -6,6 +6,10 @@ Some quotes worth to remember (IMO :)
   > "If a tree falls in a forest and no one is around to hear it, does it make a sound?" 
 
 - Some unknown guy
+   > “Bees don’t waste their time explaining to 
+      flies that honey is better than shit” 
+
+- Some unknown guy
    > "The difference between beeing inteligent and stupid
       And intelligent person knows that he is stupid
       An idiot does not know that he is an idiot
