@@ -2,10 +2,13 @@
 
 Some quotes worth to remember (IMO :)
 
+- Some philosophical thought experiment that raises questions regarding observation and perception.
+  > "If a tree falls in a forest and no one is around to hear it, does it make a sound?" 
+
 - Some unknown guy
    > "The difference between beeing inteligent and stupid
       And intelligent person knows that he is stupid
-      An idion does not know that he is an idiot
+      An idiot does not know that he is an idiot
       That's the whole problem."
 
 - Winston Churchill
