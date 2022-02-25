@@ -2,6 +2,9 @@
 
 Some quotes worth to remember (IMO :)
 
+- Chinese proverb 
+  > “Those who say it cannot be done should not interrupt those doing it.” 
+
 - Some philosophical thought experiment that raises questions regarding observation and perception.
   > "If a tree falls in a forest and no one is around to hear it, does it make a sound?" 
 
